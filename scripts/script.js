@@ -10,11 +10,11 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Kill This Love 💔",
-          artist: "BlackPink",
+          name: "Test",
+          artist: "Radiohead",
           cover: "../img/1.jpg",
           source: "../mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=2S24-y0Ij3Y&ab_channel=BLACKPINK",
+          url: "https://www.youtube.com/watch?v=LUjGtyYEi90",
           favorited: false
         },
         {
